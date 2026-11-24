@@ -1,0 +1,8 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","20605","@Web Event Hub Login","","2026-11-04","passed","2026-11-04","","EventHub.spec.js","",""
+"","11941","@Web Practice Playwright test for ADIDAS ORIGINAL","","2026-11-04","passed","2026-11-04","","ClientAppPOM.spec.js","",""
+"","6254","Visual testing","","2026-11-03","passed","2026-11-03","","MoreValidations.spec.js","",""
+"","13910","@Web Practice Playwright test with data as fixture","","2026-11-04","passed","2026-11-04","","ClientAppPOM.spec.js","",""
+"","5769","Playwright test for special locators2","","2026-11-03","passed","2026-11-03","","llc.spec.js","",""
+"","19944","@Web Practice Playwright test for ZARA COAT 3","","2026-11-04","passed","2026-11-04","","ClientAppPOM.spec.js","",""
+"","20369","@Web Practice Playwright test","","2026-11-04","passed","2026-11-04","","ClientApp.spec.js","",""
